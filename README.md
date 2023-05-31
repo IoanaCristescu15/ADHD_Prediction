@@ -1,7 +1,7 @@
 # ADHD-Prediction
 Authors: Ioana Cristescu and Ying Zhu <br/>
 
-## Paper:
+# Paper:
 For a better understanding of the project and processes read the paper ADHD_Prediction.pdf.
 
 # Direction for compiling:
