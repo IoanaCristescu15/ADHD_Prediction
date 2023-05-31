@@ -36,8 +36,7 @@ Based on Activity_joined.csv and results from the histograms, we creat Activity_
 
 
 ## FeatureExtraction:
-(more details are in StillFeatures.ipynb and RunningFeatures.ipynb) <br/> 
-We calculate 8 features based on Activity_clean.csv and add the ADHD label and ADHD Score, and Survey Dates. The new data frame is saved into feature_mapping.csv. We upscale the dataset and save into upscaling.csv.
+We calculate 8 features based on Activity_clean.csv and add the ADHD label and ADHD Score, and Survey Dates. The new data frame is saved into feature_mapping.csv. We upscale the dataset and save into upscaling.csv. (more details are in StillFeatures.ipynb and RunningFeatures.ipynb)
 
 
 ## machineModels:
